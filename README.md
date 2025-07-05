@@ -2,7 +2,7 @@
 My goal was to show - at a glance- the 2023-2024 California housing bills that have the strongest organisational backing (and which face resistance) by turning a raw CSV of data analysis filings into an interactive chart.
 
 **Data Source:**
-The CSV file was provided by my research supervisor Professor Clayton Nall from the UCSB Poli-Sci department. The data consists of 178 distinct housing-related bills with 1678 unique organizations either supporting or against certian bills.
+The CSV file was provided by my research supervisor Professor Clayton Nall from the UCSB Poli-Sci department. The data consists of 178 distinct housing-related bills with 1678 unique organizations either supporting or against certain bills.
 
 **Column	Meaning	Example From CSV File:**
 bill.no	= Bill identifier (upper-cased later) EX)AB-1490
